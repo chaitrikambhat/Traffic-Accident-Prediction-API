@@ -1,1 +1,1 @@
-web: gunicorn traffic_prediction_api:app
+web: gunicorn app:app
