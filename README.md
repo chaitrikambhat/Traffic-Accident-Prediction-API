@@ -67,8 +67,18 @@ The repository contains the original dataset CSV file and generated visualizatio
 
 ### Prerequisites
 
-- Python 3.8+  
-- Install dependencies:
+* Python 3.8+
+* Install dependencies:
 
 ```bash
 pip install flask prophet pandas matplotlib chardet
+```
+
+## 🙋‍♀️ About Me
+
+Chaitrika Mohan Bhat<br>
+Feel free to connect or reach out:
+
+* [LinkedIn](https://www.linkedin.com/in/chaitrika-m-bhat/)
+* [Email](mailto:chaitrikambhat@gmail.com)
+
